@@ -1,0 +1,61 @@
+{
+  "title": "Phòng marketing Lifesport",
+  "subtitle": "Nội dung · Thiết kế · Video · Website · Xuất bản",
+  "ownerName": "Hải trưởng phòng",
+  "port": 7788,
+  "host": "127.0.0.1",
+  "dataDir": "data",
+  "workerNetworkAccess": true,
+  "jobTimeoutMinutes": 60,
+  "staff": [
+    {
+      "key": "dat-codex",
+      "name": "Đạt Codex",
+      "role": "Công cụ và tự động hoá hỗ trợ marketing",
+      "room": "codex",
+      "roster": true
+    },
+    {
+      "key": "nhan-editor",
+      "name": "Nhân editor",
+      "role": "Dựng và biên tập video",
+      "room": "claude",
+      "roster": true
+    },
+    {
+      "key": "manh-design",
+      "name": "Mạnh design",
+      "role": "Thiết kế hình ảnh",
+      "room": "claude",
+      "roster": true
+    },
+    {
+      "key": "nhi-design",
+      "name": "Nhi design",
+      "role": "Thiết kế hình ảnh",
+      "room": "claude",
+      "roster": true
+    },
+    {
+      "key": "trinh-content",
+      "name": "Trinh content",
+      "role": "Viết nội dung",
+      "room": "claude",
+      "roster": true
+    },
+    {
+      "key": "ninh-web",
+      "name": "Ninh Web",
+      "role": "Thiết kế và tối ưu website",
+      "room": "codex",
+      "roster": true
+    },
+    {
+      "key": "tro-ly-hai",
+      "name": "Trợ lý anh Hải",
+      "role": "Chuẩn bị và đăng bài theo quyền kênh",
+      "room": "codex",
+      "roster": true
+    }
+  ]
+}
